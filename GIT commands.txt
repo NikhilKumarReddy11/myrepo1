@@ -1,0 +1,37 @@
+git init
+git config --global user.name "user"
+git config --global user.mail  "user@gmail.com"
+
+git status
+
+touch a
+cat a
+cat >a--ctrl+D
+cat >>a---ctrl+D
+
+vi a
+esc i
+esc :q
+esc :w
+esc :wq
+esc :wq!
+
+git status
+git add .
+git commit -m "msg"
+git log
+git show commit _id
+git log --oneline
+git log --oneline -n
+git log -n
+
+--------------------------------------
+git branch new_branch
+git branch --list or git branch
+git checkout new_branch
+git merge new_branch(location in oldbranch)
+----------------------------
+
+git clone https://github.com/NikhilKumarReddy11/myrepo1.git
+git pull
+git push
