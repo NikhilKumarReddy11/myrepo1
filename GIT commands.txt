@@ -35,3 +35,18 @@ git merge new_branch(location in oldbranch)
 git clone https://github.com/NikhilKumarReddy11/myrepo1.git
 git pull
 git push
+
+...................................
+creating alias names for git commands
+
+git config --list
+git config --global --alias.l "log"
+git congfig --global --alias.s "status"
+
+deleting alias
+
+git config --global --unset alias.l
+git config--global --unset alias.name
+
+.gitignore file is created to ignore files during commit
+
