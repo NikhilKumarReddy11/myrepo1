@@ -1,0 +1,79 @@
+[33mcommit 6d201be5fd6f24d9dba795d623844d66cc398828[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: c92c462 86ba152
+Author: nikhil <nikhil@gmail.com>
+Date:   Fri Oct 2 12:42:30 2020 +0530
+
+    Merge branch 'master1' into master
+    this is needed
+
+[33mcommit 86ba152c06e257d90e9e3916f1fb4b613e6a91bc[m[33m ([m[1;32mmaster1[m[33m)[m
+Author: nikhil <nikhil@gmail.com>
+Date:   Fri Oct 2 12:41:41 2020 +0530
+
+    a is deleted
+
+[33mcommit c92c462ff483bec85a87dcc9658a587645f32eb0[m
+Author: nikhil <nikhil@gmail.com>
+Date:   Fri Oct 2 12:40:06 2020 +0530
+
+    a is deleted
+
+[33mcommit be235b47870b9921436dbc834642b4e127b3f59c[m
+Author: nikhil <nikhil@gmail.com>
+Date:   Fri Oct 2 12:39:00 2020 +0530
+
+    aaa
+
+[33mcommit c4d73b1f4cbf4900839f23a1c2fc66ae471ac9fe[m
+Author: nikhil <nikhil@gmail.com>
+Date:   Fri Oct 2 12:35:21 2020 +0530
+
+    kkkk
+
+[33mcommit 995ac305548e394d1e5a1ab89dfb8bb0b3777f2f[m
+Author: nikhil <nikhil@gmail.com>
+Date:   Fri Oct 2 12:27:18 2020 +0530
+
+    a is modified
+
+[33mcommit e623e3a2ab0063284183dc334de1d866e2ddf2ee[m
+Author: nikhil <nikhil@gmail.com>
+Date:   Fri Oct 2 12:23:50 2020 +0530
+
+    abc modified
+
+[33mcommit 6e803af62222eeb242fc07da69849c331f5cc34f[m
+Author: nikhil <nikhil@gmail.com>
+Date:   Fri Oct 2 12:16:57 2020 +0530
+
+    a,b,c added
+
+[33mcommit 6f94bf0796c0358f38fc2fe524825fc9d8050c8a[m
+Author: nikhil <nikhil@gmail.com>
+Date:   Fri Oct 2 12:14:58 2020 +0530
+
+    f1,f2 added
+
+[33mcommit 7cbba676dfd665c1d943a6bf7a0a6aafee07a43f[m
+Author: nikhil <nikhil@gmail.com>
+Date:   Fri Oct 2 12:10:29 2020 +0530
+
+    git commands file is created
+
+[33mcommit 1aec35e5d58d0013d6cf90c2b37bd32a8887c73b[m
+Author: nikhil <nikhil@gmail.com>
+Date:   Fri Oct 2 11:55:08 2020 +0530
+
+    new file created
+
+[33mcommit 47bff4504a44bf3b2a50e44b892e235dfe246f88[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: nikhil <nikhil@gmail.com>
+Date:   Fri Oct 2 11:43:48 2020 +0530
+
+    modified readme file
+
+[33mcommit ffeb287a7ee6ea49472743a796c08a8a417b67ed[m
+Author: NikhilKumarReddy11 <52403786+NikhilKumarReddy11@users.noreply.github.com>
+Date:   Sat Sep 26 14:26:46 2020 +0530
+
+    Initial commit
